@@ -1,17 +1,17 @@
 [![MasterHead](https://indoanalytica.com/static/images/data-science-2.gif)]
 <h1 align="center">Hi 👋, I'm Amr Ayman</h1>
-<h3 align="center">Junior Data Scientist passionate about using technology to solve real-world problems.</h3>
+<h3 align="center">Data Detective in Training passionate about using technology to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/pMYQAlYxa80AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amr-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="amr-ayman" /> </p>
 
-- 🔭 I’m currently working on **Developing My skills in Data Science and Machine Learning**
+- 🔭 I’m currently working on **Developing My skills in Data Science and Machine Learning Through open source Projects**
 
-- 🌱 I’m currently learning **Power Bi, Machine Learning**
+- 🌱 I’m currently learning **Data skills by all Ways**
 
 - 👯 I’m looking to collaborate on [Applied Data Science Lab at world Quant university](https://learn.wqu.edu/my-path/courses/010)
 
-- 💬 Ask me about **Python, SQL, Data Manipulation and Visualization**
+- 💬 Ask me about **Data lifecycle management**
 
 - 📫 How to reach me **amraymen83@gmail.com**
 
